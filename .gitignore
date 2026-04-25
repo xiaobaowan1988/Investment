@@ -1,0 +1,4 @@
+futu.pem
+*.pem
+*.key
+.env
